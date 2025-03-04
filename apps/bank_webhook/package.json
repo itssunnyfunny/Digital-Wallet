@@ -10,6 +10,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "@repo/db": "*",
     "@types/express": "^5.0.0",
     "exbuild": "^0.2.2",
     "express": "^4.21.2"
