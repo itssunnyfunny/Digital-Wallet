@@ -4,7 +4,7 @@ import { Card } from "@repo/ui/card";
 import { Center } from "@repo/ui/center";
 import { Select } from "@repo/ui/select";
 import { useState } from "react";
-import { TextInput } from "@repo/ui/textinput";
+import { TextInput } from "@repo/ui/textInput";
 
 const SUPPORTED_BANKS = [{
     name: "HDFC Bank",
